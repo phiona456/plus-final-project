@@ -146,4 +146,4 @@ citySearch.addEventListener("submit", cityName);
 let currentLocation = document.querySelector("#live-location");
 currentLocation.addEventListener("click", liveLocation);
 
-search("Tokyo");
+search("Kampala");
